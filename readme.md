@@ -1,3 +1,5 @@
+## Exercise
+
 Full Stack Live Coding Exercise
 
 Scenario
@@ -15,3 +17,13 @@ You may use any resource, library, example code or documentation you can find on
 Documentation
 Stackoverflow API
 http://api.stackexchange.com/docs/search#order=desc&sort=activity&intitle=java&filter=default&site=stackoverflow&run=true
+
+## Installation
+
+To do this exercise I used Lumen microframework.
+
+To run this code you need to follow this steps:
+
+- Pull this repository on testing machine
+- Install dependencies with Composer: `$ composer install`
+- Configure public/index.php as entry point for your web-server
